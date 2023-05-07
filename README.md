@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  [!(https://visitor-badge.laobi.icu/badge?page_id=alanretubis.alanretubis&left_text=Profile%20Views)]
+  (https://visitor-badge.laobi.icu/badge?page_id=alanretubis.alanretubis&left_text=Profile%20Views)
 </div>
 
 ###
