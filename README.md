@@ -1,33 +1,19 @@
-<h1 align="left">Hey 👋 How are you?</h1>
+# Hey 👋 How are you?
 
-###
+I'm Alan.  
+Welcome to my github profile.  
+I enjoy learning and I aim for excellence in everything I do.  
 
-<p align="left">I'm Alan.<br>Welcome to my github profile.<br>I enjoy learning and I aim for excellence in everything I do.</p>
+![Page Views](https://visitor-badge.laobi.icu/badge?page_id=alanretubis.alanretubis&left_text=Profile%20Views "Page Views")
 
-###
+## About me
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alanretubis.alanretubis&left_text=Profile%20Views" />
-</div>
+✨ Full-stack developer since 2016.  
+🔭 Currently working on a insurtech platform  
+🎯 Goals: To become a package developer and a stocks trader.  
+📫 You can reach me via [email](mailto:alanretubis@gmail.com)
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-    ✨ Full-stack developer since 2016<br>
-    🔭 Currently working on a insurtech platform<br>
-    🎯 Goals: To become a package developer and a stocks trader.<br>
-    📫 You can reach me via <a href="mailto:alanretubis@gmail.com">email</a>
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
