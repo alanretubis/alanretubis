@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm Alan.<br>Welcome to my github profile.<br>I enjoy learning and I aim for excellence in everything I do.</p>
-
+![](https://komarev.com/ghpvc/?username=alanretubis&color=green)
 ###
 
 <h2 align="left">About me</h2>
