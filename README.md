@@ -3,6 +3,13 @@
 ###
 
 <p align="left">I'm Alan.<br>Welcome to my github profile.<br>I enjoy learning and I aim for excellence in everything I do.</p>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alanretubis.alanretubis&left_text=Profile Views"  />
+</div>
+
 ###
 
 <h2 align="left">About me</h2>
