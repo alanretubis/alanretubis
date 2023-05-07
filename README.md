@@ -20,7 +20,7 @@
     ✨ Full-stack developer since 2016<br>
     🔭 Currently working on a insurtech platform<br>
     🎯 Goals: To become a package developer and a stocks trader.<br>
-    📫 You can reach me at alanretubis@gmail.com
+    📫 You can reach me via [email](mailto:alanretubis@gmail.com)
 </p>
 
 ###
