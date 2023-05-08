@@ -31,4 +31,6 @@ I enjoy learning and I aim for excellence in everything I do.
 
 [![wakatime](https://wakatime.com/badge/user/45e9a134-61c9-4438-8f36-0c7c5ce7999e.svg)](https://wakatime.com/@45e9a134-61c9-4438-8f36-0c7c5ce7999e)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alanretubis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanretubis&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true&layout=compact)
