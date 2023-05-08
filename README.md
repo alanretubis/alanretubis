@@ -29,6 +29,6 @@ I enjoy learning and I aim for excellence in everything I do.
 ## Coding Stats
 ![WakaTime](https://wakatime.com/share/@alanretubis/6155b694-b82b-4a53-bd69-02792ac8d24c.svg)
 
-[![wakatime](https://wakatime.com/badge/user/c093ad25-4561-4bae-8a24-e78bf0a52ac2.svg)](https://wakatime.com/@c093ad25-4561-4bae-8a24-e78bf0a52ac2)
+![Wakatime Hours](https://wakatime.com/badge/user/45e9a134-61c9-4438-8f36-0c7c5ce7999e.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanretubis&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true&layout=compact)
