@@ -26,4 +26,4 @@ I enjoy learning and I aim for excellence in everything I do.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
 </div>
 
-###
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alanretubis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
