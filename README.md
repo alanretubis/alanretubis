@@ -42,4 +42,4 @@ I enjoy learning and I aim for excellence in everything I do.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alanretubis/alanretubis/output/snake.svg" alt="Snake animation" />
