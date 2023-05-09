@@ -1,4 +1,4 @@
-# Hey 👋 How are you?
+# Hi! 👋 How are you?
 
 I'm Alan.  
 Welcome to my github profile.  
