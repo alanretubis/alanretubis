@@ -27,7 +27,7 @@ I enjoy learning and I aim for excellence in everything I do.
 </div>
 
 ## Coding Stats
-[![Total time coded since May 7 2023](https://wakatime.com/badge/user/45e9a134-61c9-4438-8f36-0c7c5ce7999e.svg)](https://wakatime.com/@45e9a134-61c9-4438-8f36-0c7c5ce7999e)  
+[![Total time coded](https://wakatime.com/badge/user/45e9a134-61c9-4438-8f36-0c7c5ce7999e.svg)](https://wakatime.com/@45e9a134-61c9-4438-8f36-0c7c5ce7999e)  
 <div align="left">
   <img src="https://wakatime.com/share/@alanretubis/3a4d2eb0-1abe-4002-8147-2c7f3eaa505b.svg" width="50%" height="auto" alt="Languages over All Time" />
   <br/>
