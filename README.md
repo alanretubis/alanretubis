@@ -39,3 +39,7 @@ I enjoy learning and I aim for excellence in everything I do.
   <br/>
   <img src="https://streak-stats.demolab.com?user=alanretubis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="45%" height="auto" alt="streak graph"  />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
