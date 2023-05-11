@@ -27,15 +27,13 @@ I enjoy learning and I aim for excellence in everything I do.
 </div>
 
 ## Coding Stats
-[![Total time coded](https://wakatime.com/badge/user/45e9a134-61c9-4438-8f36-0c7c5ce7999e.svg)](https://wakatime.com/@45e9a134-61c9-4438-8f36-0c7c5ce7999e)  
+[![WakaTime](https://wakatime.com/badge/user/45e9a134-61c9-4438-8f36-0c7c5ce7999e.svg)](https://wakatime.com/@45e9a134-61c9-4438-8f36-0c7c5ce7999e)  
 <div align="left">
-  <img src="https://wakatime.com/share/@alanretubis/3a4d2eb0-1abe-4002-8147-2c7f3eaa505b.svg" width="50%" height="auto" alt="Languages over All Time" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alanretubis&layout=compact&show_icons=true&theme=radical&count_private=true" width="50%" height="auto" alt="wakatime stats"/>
+  <img src="https://wakatime.com/share/@alanretubis/3a4d2eb0-1abe-4002-8147-2c7f3eaa505b.svg" width="70%" height="auto" alt="Languages over All Time" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alanretubis&layout=compact&show_icons=true&theme=radical&count_private=true" width="70%" height="auto" alt="wakatime stats"/>
 </div>
-<br/>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanretubis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="45%" height="auto" alt="stats graph" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=alanretubis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="45%" height="auto" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alanretubis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="70%" height="auto" alt="stats graph" />
+<!--   <br/>
+  <img src="https://streak-stats.demolab.com?user=alanretubis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="45%" height="auto" alt="streak graph"  /> -->
 </div>
