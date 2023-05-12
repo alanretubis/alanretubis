@@ -29,7 +29,7 @@ I enjoy learning and I aim for excellence in everything I do.
 ## Coding Stats
 [![WakaTime](https://wakatime.com/badge/user/45e9a134-61c9-4438-8f36-0c7c5ce7999e.svg)](https://wakatime.com/@45e9a134-61c9-4438-8f36-0c7c5ce7999e)  
 <div align="left">
-  <img src="https://wakatime.com/share/@alanretubis/3a4d2eb0-1abe-4002-8147-2c7f3eaa505b.svg" width="70%" height="auto" alt="Languages over All Time" />
+  <img src="https://wakatime.com/share/@alanretubis/5c090c50-2fcb-4a45-a2e8-fc0d2863aa3c.svg" width="70%" height="auto" alt="Languages over All Time" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alanretubis&layout=compact&show_icons=true&theme=vision-friendly-dark&range=all_time&count_private=true" width="70%" height="auto" alt="wakatime stats"/>
 </div>
 <div align="left">
