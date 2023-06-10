@@ -9,7 +9,7 @@ I enjoy learning and I aim for excellence in everything I do.
 ## About me
 
 ✨ Full-stack developer since 2016.  
-🔭 Currently working on a insurtech platform  
+🔭 Currently working on an insurtech platform  
 🎯 Goals: To become a package developer and a stocks trader.  
 📫 You can reach me via [email](mailto:alanretubis@gmail.com)
 
