@@ -43,8 +43,8 @@ I enjoy learning and I aim for excellence in everything I do.
   <img src="https://wakatime.com/share/@alanretubis/5c090c50-2fcb-4a45-a2e8-fc0d2863aa3c.svg" width="70%" height="auto" alt="Languages over All Time" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alanretubis&layout=compact&show_icons=true&theme=vision-friendly-dark&range=all_time&count_private=true" width="70%" height="auto" alt="wakatime stats"/>
 </div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanretubis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" width="70%" height="auto" alt="stats graph" />
+<!-- <div align="left"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=alanretubis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" width="70%" height="auto" alt="stats graph" /> -->
 <!--   <br/>
   <img src="https://streak-stats.demolab.com?user=alanretubis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="45%" height="auto" alt="streak graph"  /> -->
-</div>
+<!-- </div> -->
