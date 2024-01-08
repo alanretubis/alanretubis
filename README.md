@@ -11,7 +11,7 @@ I enjoy learning and I aim for excellence in everything I do.
 ✨ Full-stack developer since 2016.  
 🔭 Currently working on an insurtech platform  
 🎯 Goals: To become a package developer and a stocks trader.  
-🚀 I also share some insights for those who want to learn programming at [Codeducator](https://coducator.com).  
+🚀 I also share some insights for those who want to learn programming at [Codeducator](https://codeducator.com).  
 📫 You can reach me via [email](mailto:alanretubis@gmail.com)
 
 ## I code with
